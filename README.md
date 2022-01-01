@@ -11,4 +11,3 @@
 
 ### This page is under development and will be available shortly.
 
-![Image](Vaibhav.png)
